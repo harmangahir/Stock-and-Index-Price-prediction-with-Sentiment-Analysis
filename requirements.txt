@@ -1,0 +1,9 @@
+sklearn
+numpy
+pandas
+nltk
+keras
+tensorflow
+regex
+gunicorn
+matplotlib
